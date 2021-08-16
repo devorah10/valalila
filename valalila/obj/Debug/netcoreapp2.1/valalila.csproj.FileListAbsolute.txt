@@ -1,0 +1,15 @@
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\bin\Debug\netcoreapp2.1\valalila.deps.json
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\bin\Debug\netcoreapp2.1\valalila.runtimeconfig.json
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\bin\Debug\netcoreapp2.1\valalila.runtimeconfig.dev.json
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\bin\Debug\netcoreapp2.1\valalila.dll
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\bin\Debug\netcoreapp2.1\valalila.pdb
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.csproj.CoreCompileInputs.cache
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.RazorAssemblyInfo.cache
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.RazorAssemblyInfo.cs
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.AssemblyInfoInputs.cache
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.AssemblyInfo.cs
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.RazorTargetAssemblyInfo.cache
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.dll
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.pdb
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.csproj.AssemblyReference.cache
+d:\Users\User\Documents\לימודים\angular\שילת ודבורה\valalila\obj\Debug\netcoreapp2.1\valalila.genruntimeconfig.cache
